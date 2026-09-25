@@ -33,7 +33,7 @@ int main() {
     cin >> h >> m >> s;
     t2.input(h, m, s);
 
-    cout << "\nTime 1: ";
+    cout << "Time 1: ";
     t1.show();
 
     cout << "Time 2: ";
