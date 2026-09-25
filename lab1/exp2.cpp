@@ -24,7 +24,7 @@ public:
         cout << "\nStudent Record" << endl;
         cout << "Name   : " << name << endl;
         cout << "Roll   : " << roll << endl;
-        cout << "Branch : " << branch << endl;
+        cout << "Branch = " << branch << endl;
     }
 };
 
