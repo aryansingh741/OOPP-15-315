@@ -26,7 +26,7 @@ int main() {
     cout << "Enter details of Point 1:\n";
     p1.input();
 
-    cout << "\nEnter details of Point 2:\n";
+    cout << "\nEnter details of Point 2:";
     p2.input();
 
     cout << "\n--- Point 1 ---\n";
